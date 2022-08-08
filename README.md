@@ -38,16 +38,15 @@ Repository for Front-End Course Kottans
 
 ## Git and GitHub
 
-Загалом, подача матеріалу на Coursera сподобалась, особливо те, що теми були розбиті на короткі фрагменти. Мова проста, переклад не знадобився. Шкода, що не можна було пройти лабораторні завдання, але гра на [learngitbranching.js.org](https://learngitbranching.js.org/) дуже допомогла в освоєнні команд.
+Подача матеріалу на Coursera сподобалась, вимова англійською була чітка і зрозуміла. Гра на [learngitbranching.js.org](https://learngitbranching.js.org/) прикольна і дуже допомогла в освоєнні команд.
 
 <details>
 <summary>Screenshots</summary>
 
-![Coursera  Introduction to Git and GitHub W1](https://user-images.githubusercontent.com/110284542/183263637-cdbd5c72-935e-47f1-b893-b1dd1677a3ae.PNG)
-![Coursera  Introduction to Git and GitHub W2](https://user-images.githubusercontent.com/110284542/183263670-bfede772-672b-432f-9a69-54b4b3cad9f4.PNG)
+![image](https://user-images.githubusercontent.com/97843226/183425497-4e6e4be8-8f7c-4d3e-ba53-d5d7da5a867a.png)
+![image](https://user-images.githubusercontent.com/97843226/183425691-1730ae8a-5563-44f3-9df0-06e8b40c6536.png)
 
-![learngitbranching Intro](https://user-images.githubusercontent.com/110284542/183263812-c5ba8f3e-4e32-4bf5-accf-8336f2945d19.PNG)
-![learngitbranching Push-Pull](https://user-images.githubusercontent.com/110284542/183263814-52fc9b69-9260-4ed5-9e3b-960a385b5f1e.PNG)
+
 
 </details>
 
