@@ -45,6 +45,8 @@ Repository for Front-End Course Kottans
 
 ![image](https://user-images.githubusercontent.com/97843226/183425497-4e6e4be8-8f7c-4d3e-ba53-d5d7da5a867a.png)
 ![image](https://user-images.githubusercontent.com/97843226/183425691-1730ae8a-5563-44f3-9df0-06e8b40c6536.png)
+![image](https://user-images.githubusercontent.com/97843226/183433466-3fab1520-23ce-4810-9e85-72cefd4599a9.png)
+![image](https://user-images.githubusercontent.com/97843226/183459993-837952d3-b975-4a5f-926e-4852b45d8f89.png)
 
 
 
@@ -52,7 +54,17 @@ Repository for Front-End Course Kottans
 
 ## Linux CLI, and HTTP
 
-[Screenshots for Linux Survival](https://github.com/ElenaRiabova/kottans-frontend/tree/main/task_linux_cli)
+<details>
+<summary>Screenshots</summary>
+    
+![image](https://user-images.githubusercontent.com/97843226/183430560-a39651e1-a964-4e5b-85dc-9740a4d14f1c.png)
+![image](https://user-images.githubusercontent.com/97843226/183431884-c26b9473-ebf8-4b27-a3f8-5cd8510cc651.png)
+![image](https://user-images.githubusercontent.com/97843226/183432443-33b5b37a-471d-45b9-a76e-6524f52d62ea.png)
+![image](https://user-images.githubusercontent.com/97843226/183433040-0a619248-cad8-4a29-86c8-7ba2eca7ae1e.png)
+
+
+
+</details>
 
 **_Linux Survival_**. Основні команди вивчилися швидко, в інтекрактивній формі легше вчитися. Дуже сподобалося.
 
