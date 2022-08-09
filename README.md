@@ -38,26 +38,37 @@ Repository for Front-End Course Kottans
 
 ## Git and GitHub
 
-Загалом, подача матеріалу на Coursera сподобалась, особливо те, що теми були розбиті на короткі фрагменти. Мова проста, переклад не знадобився. Шкода, що не можна було пройти лабораторні завдання, але гра на [learngitbranching.js.org](https://learngitbranching.js.org/) дуже допомогла в освоєнні команд.
+Подача матеріалу на Coursera сподобалась, вимова англійською була чітка і зрозуміла. Гра на [learngitbranching.js.org](https://learngitbranching.js.org/) прикольна і дуже допомогла в освоєнні команд.
 
 <details>
 <summary>Screenshots</summary>
 
-![Coursera  Introduction to Git and GitHub W1](https://user-images.githubusercontent.com/110284542/183263637-cdbd5c72-935e-47f1-b893-b1dd1677a3ae.PNG)
-![Coursera  Introduction to Git and GitHub W2](https://user-images.githubusercontent.com/110284542/183263670-bfede772-672b-432f-9a69-54b4b3cad9f4.PNG)
+![image](https://user-images.githubusercontent.com/97843226/183425497-4e6e4be8-8f7c-4d3e-ba53-d5d7da5a867a.png)
+![image](https://user-images.githubusercontent.com/97843226/183425691-1730ae8a-5563-44f3-9df0-06e8b40c6536.png)
+![image](https://user-images.githubusercontent.com/97843226/183433466-3fab1520-23ce-4810-9e85-72cefd4599a9.png)
+![image](https://user-images.githubusercontent.com/97843226/183459993-837952d3-b975-4a5f-926e-4852b45d8f89.png)
 
-![learngitbranching Intro](https://user-images.githubusercontent.com/110284542/183263812-c5ba8f3e-4e32-4bf5-accf-8336f2945d19.PNG)
-![learngitbranching Push-Pull](https://user-images.githubusercontent.com/110284542/183263814-52fc9b69-9260-4ed5-9e3b-960a385b5f1e.PNG)
+
 
 </details>
 
 ## Linux CLI, and HTTP
 
-[Screenshots for Linux Survival](https://github.com/ElenaRiabova/kottans-frontend/tree/main/task_linux_cli)
+<details>
+<summary>Screenshots</summary>
+    
+![image](https://user-images.githubusercontent.com/97843226/183430560-a39651e1-a964-4e5b-85dc-9740a4d14f1c.png)
+![image](https://user-images.githubusercontent.com/97843226/183431884-c26b9473-ebf8-4b27-a3f8-5cd8510cc651.png)
+![image](https://user-images.githubusercontent.com/97843226/183432443-33b5b37a-471d-45b9-a76e-6524f52d62ea.png)
+![image](https://user-images.githubusercontent.com/97843226/183433040-0a619248-cad8-4a29-86c8-7ba2eca7ae1e.png)
 
-**_Linux Survival_**. Основні команди вивчилися швидко, в інтекрактивній формі легше вчитися. Дуже сподобалося.
 
-**_HTTP_**. Матеріал прочитала, але не можу сказати, що інформація добре засвоїлася. Можливо на практиці все стане зрозумілішим.
+
+</details>
+
+**_Linux Survival_**. Дуже багато команд які з першого разу не запам'ятаєш, можливо під час роботи і якщо корстуватись часто тоді зостануться в пам'яті.
+
+**_HTTP_**. Матеріал прочитала, стільки інформації засвоїти дуже важко без практики. При роботі все одно потрібно буде перечитувати ту інформацію яка потрібна для                  твоєї задачі.
 
 ---
 
